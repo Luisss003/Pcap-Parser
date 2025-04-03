@@ -1,2 +1,2 @@
-# Pcap-Processor
-Pcap file processor written in C
+# Pcap-Parser
+Pcap file parser written in C
